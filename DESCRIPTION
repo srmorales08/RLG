@@ -1,16 +1,16 @@
 Package: RLG
-Title: What the Package Does (One Line, Title Case)
+Title: Random Letter Generator
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Sandy",
+           family = "Morales",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+           email = "srmorales08@gmail.com")
+Description: This package was created for my computation and simulation statistics course and contains one function that can randomly generate letters.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
+URL: https://github.com/srmorales08/RLG
+BugReports: https://github.com/srmorales08/RLG/issues
